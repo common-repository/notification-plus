@@ -1,0 +1,1199 @@
+# Copyright (C) 2020 notification-plus
+# This file is distributed under the same license as the notification-plus package.
+msgid ""
+msgstr ""
+"Project-Id-Version: notification-plus\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: demo/demo-meta-boxes.php:25
+msgid "Demo Meta Box"
+msgstr ""
+
+#: demo/demo-meta-boxes.php:32
+msgid "Conditions"
+msgstr ""
+
+#: demo/demo-meta-boxes.php:37
+msgid "Show Gallery"
+msgstr ""
+
+#: demo/demo-meta-boxes.php:41
+msgid "Shows the Gallery when set to %s."
+msgstr ""
+
+#: demo/demo-meta-boxes.php:48
+msgid "Congratulations, you created a gallery!"
+msgstr ""
+
+#: demo/demo-meta-boxes.php:53, demo/demo-settings.php:278, includes/admin-functions.php:1636, includes/admin-functions.php:4351
+msgid "Gallery"
+msgstr ""
+
+#: demo/demo-meta-boxes.php:56
+msgid "This is a Gallery option type. It displays when %s."
+msgstr ""
+
+#: demo/demo-meta-boxes.php:60
+msgid "More Options"
+msgstr ""
+
+#: demo/demo-meta-boxes.php:65, demo/demo-settings.php:684, includes/admin-functions.php:1660
+msgid "Text"
+msgstr ""
+
+#: demo/demo-meta-boxes.php:68
+msgid "This is a demo Text field."
+msgstr ""
+
+#: demo/demo-meta-boxes.php:71, demo/demo-settings.php:699, includes/admin-functions.php:1661
+msgid "Textarea"
+msgstr ""
+
+#: demo/demo-meta-boxes.php:74
+msgid "This is a demo Textarea field."
+msgstr ""
+
+#: demo/demo-settings.php:36, demo/demo-settings.php:45, demo/new-settings.php:36, demo/prince-settings.php:36, includes/admin-functions.php:222
+msgid "Option Types"
+msgstr ""
+
+#: demo/demo-settings.php:37, demo/new-settings.php:37, demo/prince-settings.php:37
+msgid "Help content goes here!"
+msgstr ""
+
+#: demo/demo-settings.php:40, demo/new-settings.php:40, demo/prince-settings.php:40
+msgid "Sidebar content goes here!"
+msgstr ""
+
+#: demo/demo-settings.php:51, includes/admin-functions.php:1622
+msgid "Background"
+msgstr ""
+
+#: demo/demo-settings.php:52
+msgid "The Background option type is for adding background styles to your theme either dynamically via the CSS option type below or manually with %1$s. The Background option type has filters that allow you to remove fields or change the defaults. For example, you can filter %2$s to remove unwanted fields from all Background options or an individual one. You can also filter %3$s. These filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+
+#: demo/demo-settings.php:52, demo/demo-settings.php:760, includes/admin-functions.php:3420
+msgid "and"
+msgstr ""
+
+#: demo/demo-settings.php:67, includes/admin-functions.php:1623
+msgid "Border"
+msgstr ""
+
+#: demo/demo-settings.php:68
+msgid "The Border option type is used to set width, unit, style, and color values."
+msgstr ""
+
+#: demo/demo-settings.php:83, includes/admin-functions.php:1624
+msgid "Box Shadow"
+msgstr ""
+
+#: demo/demo-settings.php:84
+msgid "The Box Shadow option type is used to set %1$s, %2$s, %3$s, %4$s, %5$s, and %6$s values."
+msgstr ""
+
+#: demo/demo-settings.php:98, includes/admin-functions.php:1625
+msgid "Category Checkbox"
+msgstr ""
+
+#: demo/demo-settings.php:99
+msgid "The Category Checkbox option type displays a list of category IDs. It allows the user to check multiple category IDs and will return that value as an array for use in a custom function or loop."
+msgstr ""
+
+#: demo/demo-settings.php:113, includes/admin-functions.php:1626
+msgid "Category Select"
+msgstr ""
+
+#: demo/demo-settings.php:114
+msgid "The Category Select option type displays a list of category IDs. It allows the user to select only one category ID and will return that value for use in a custom function or loop."
+msgstr ""
+
+#: demo/demo-settings.php:128, includes/admin-functions.php:1627
+msgid "Checkbox"
+msgstr ""
+
+#: demo/demo-settings.php:129
+msgid "The Checkbox option type displays a group of choices. It allows the user to check multiple choices and will return that value as an array for use in a custom function or loop."
+msgstr ""
+
+#: demo/demo-settings.php:143, demo/demo-settings.php:515, demo/demo-settings.php:567
+msgid "No"
+msgstr ""
+
+#: demo/demo-settings.php:148, demo/demo-settings.php:510, demo/demo-settings.php:562
+msgid "Yes"
+msgstr ""
+
+#: demo/demo-settings.php:155, includes/admin-functions.php:1628
+msgid "Colorpicker"
+msgstr ""
+
+#: demo/demo-settings.php:156
+msgid "The Colorpicker option type saves a hexadecimal color code for use in CSS. Use it to modify the color of something in your theme."
+msgstr ""
+
+#: demo/demo-settings.php:170, demo/demo-settings.php:171, includes/admin-functions.php:1629
+msgid "Colorpicker Opacity"
+msgstr ""
+
+#: demo/demo-settings.php:172
+msgid "The Colorpicker Opacity option type saves an rgba color value for use in CSS. To add opacity to other colorpickers add the %1$s class to the %2$s array."
+msgstr ""
+
+#: demo/demo-settings.php:186, includes/admin-functions.php:1630
+msgid "CSS"
+msgstr ""
+
+#: demo/demo-settings.php:187
+msgid "The CSS option type is a textarea that when used properly can add dynamic CSS to your theme from within Prince. Unfortunately, due server limitations you will need to create a file named %1$s at the root level of your theme and change permissions using %2$s so the server can write to the file. I have had the most success setting this single file to %3$s but feel free to play around with permissions until everything is working. A good starting point is %4$s. When the server can save to the file, CSS will automatically be updated when you save your Settings."
+msgstr ""
+
+#: demo/demo-settings.php:187
+msgid "This example assumes you have an option with the ID of %1$s. Which means this option will automatically insert the value of %1$s into the %2$s when the Settings are saved."
+msgstr ""
+
+#: demo/demo-settings.php:203, includes/admin-functions.php:1631
+msgid "Custom Post Type Checkbox"
+msgstr ""
+
+#: demo/demo-settings.php:204
+msgid "The Custom Post Type Select option type displays a list of IDs from any available WordPress post type or custom post type. It allows the user to check multiple post IDs for use in a custom function or loop. Requires at least one valid %1$s in the %1$s field."
+msgstr ""
+
+#: demo/demo-settings.php:218, includes/admin-functions.php:1632
+msgid "Custom Post Type Select"
+msgstr ""
+
+#: demo/demo-settings.php:219
+msgid "The Custom Post Type Select option type displays a list of IDs from any available WordPress post type or custom post type. It will return a single post ID for use in a custom function or loop. Requires at least one valid %1$s in the %1$s field."
+msgstr ""
+
+#: demo/demo-settings.php:233, includes/admin-functions.php:1633
+msgid "Date Picker"
+msgstr ""
+
+#: demo/demo-settings.php:234
+msgid "The Date Picker option type is tied to a standard form input field which displays a calendar pop-up that allow the user to pick any date when focus is given to the input field. The returned value is a date formatted string."
+msgstr ""
+
+#: demo/demo-settings.php:248, includes/admin-functions.php:1634
+msgid "Date Time Picker"
+msgstr ""
+
+#: demo/demo-settings.php:249
+msgid "The Date Time Picker option type is tied to a standard form input field which displays a calendar pop-up that allow the user to pick any date and time when focus is given to the input field. The returned value is a date and time formatted string."
+msgstr ""
+
+#: demo/demo-settings.php:263, includes/admin-functions.php:1635
+msgid "Dimension"
+msgstr ""
+
+#: demo/demo-settings.php:264
+msgid "The Dimension option type is used to set width and height values."
+msgstr ""
+
+#: demo/demo-settings.php:279
+msgid "The Gallery option type saves a comma separated list of image attachment IDs. You will need to create a front-end function to display the images in your theme."
+msgstr ""
+
+#: demo/demo-settings.php:293
+msgid "Gallery Shortcode"
+msgstr ""
+
+#: demo/demo-settings.php:294
+msgid "The Gallery option type can also be saved as a shortcode by adding %s to the class attribute. Using the Gallery option type in this manner will result in a better user experience as you're able to save the link, column, and order settings."
+msgstr ""
+
+#: demo/demo-settings.php:308, includes/admin-functions.php:1637
+msgid "Google Fonts"
+msgstr ""
+
+#: demo/demo-settings.php:309
+msgid "The Google Fonts option type will dynamically enqueue any number of Google Web Fonts into the document %1$s. As well, once the option has been saved each font family will automatically be inserted into the %2$s array for the Typography option type. You can further modify the font stack by using the %3$s filter, which is passed the %4$s, %5$s, and %6$s parameters. The %6$s parameter is being passed from %7$s, so it will be the ID of a Typography option type. This will allow you to add additional web safe fonts to individual font families on an as-need basis."
+msgstr ""
+
+#: demo/demo-settings.php:329, includes/admin-functions.php:1638
+msgid "JavaScript"
+msgstr ""
+
+#: demo/demo-settings.php:330
+msgid "The JavaScript option type is a textarea that uses the %s code editor to highlight your JavaScript and display errors as you type."
+msgstr ""
+
+#: demo/demo-settings.php:344, includes/admin-functions.php:1639
+msgid "Link Color"
+msgstr ""
+
+#: demo/demo-settings.php:345
+msgid "The Link Color option type is used to set all link color states."
+msgstr ""
+
+#: demo/demo-settings.php:359, includes/admin-functions.php:1640
+msgid "List Item"
+msgstr ""
+
+#: demo/demo-settings.php:360
+msgid "The List Item option type allows for a great deal of customization. You can add settings to the List Item and those settings will be displayed to the user when they add a new List Item. Typical use is for creating sliding content or blocks of code for custom layouts."
+msgstr ""
+
+#: demo/demo-settings.php:374
+msgid "Content"
+msgstr ""
+
+#: demo/demo-settings.php:390, includes/admin-functions.php:1641
+msgid "Measurement"
+msgstr ""
+
+#: demo/demo-settings.php:391
+msgid "The Measurement option type is a mix of input and select fields. The text input excepts a value and the select lets you choose the unit of measurement to add to that value. Currently the default units are %1$s, %2$s, %3$s, and %4$s. However, you can change them with the %5$s filter."
+msgstr ""
+
+#: demo/demo-settings.php:405, includes/admin-functions.php:1642
+msgid "Numeric Slider"
+msgstr ""
+
+#: demo/demo-settings.php:406
+msgid "The Numeric Slider option type displays a jQuery UI slider. It will return a single numerical value for use in a custom function or loop."
+msgstr ""
+
+#: demo/demo-settings.php:420, includes/admin-functions.php:1643
+msgid "On/Off"
+msgstr ""
+
+#: demo/demo-settings.php:421
+msgid "The On/Off option type displays a simple switch that can be used to turn things on or off. The saved return value is either %1$s or %2$s."
+msgstr ""
+
+#: demo/demo-settings.php:435, includes/admin-functions.php:1644
+msgid "Page Checkbox"
+msgstr ""
+
+#: demo/demo-settings.php:436
+msgid "The Page Checkbox option type displays a list of page IDs. It allows the user to check multiple page IDs for use in a custom function or loop."
+msgstr ""
+
+#: demo/demo-settings.php:450, includes/admin-functions.php:1645
+msgid "Page Select"
+msgstr ""
+
+#: demo/demo-settings.php:451
+msgid "The Page Select option type displays a list of page IDs. It will return a single page ID for use in a custom function or loop."
+msgstr ""
+
+#: demo/demo-settings.php:465, includes/admin-functions.php:1646
+msgid "Post Checkbox"
+msgstr ""
+
+#: demo/demo-settings.php:466
+msgid "The Post Checkbox option type displays a list of post IDs. It allows the user to check multiple post IDs for use in a custom function or loop."
+msgstr ""
+
+#: demo/demo-settings.php:480, includes/admin-functions.php:1647
+msgid "Post Select"
+msgstr ""
+
+#: demo/demo-settings.php:481
+msgid "The Post Select option type displays a list of post IDs. It will return a single post ID for use in a custom function or loop."
+msgstr ""
+
+#: demo/demo-settings.php:495, includes/admin-functions.php:1648
+msgid "Radio"
+msgstr ""
+
+#: demo/demo-settings.php:496
+msgid "The Radio option type displays a group of choices. It allows the user to choose one and will return that value as a string for use in a custom function or loop."
+msgstr ""
+
+#: demo/demo-settings.php:520, demo/demo-settings.php:572
+msgid "Maybe"
+msgstr ""
+
+#: demo/demo-settings.php:527, includes/admin-functions.php:1649
+msgid "Radio Image"
+msgstr ""
+
+#: demo/demo-settings.php:528
+msgid "the Radio Images option type is primarily used for layouts. However, you can filter the image list using %s. As well, you can add your own custom images using the choices array."
+msgstr ""
+
+#: demo/demo-settings.php:542, includes/admin-functions.php:1650
+msgid "Select"
+msgstr ""
+
+#: demo/demo-settings.php:543
+msgid "The Select option type is used to list anything you want that would be chosen from a select list."
+msgstr ""
+
+#: demo/demo-settings.php:557, includes/settings-types.php:1386, includes/settings-types.php:1429
+msgid "-- Choose One --"
+msgstr ""
+
+#: demo/demo-settings.php:579, includes/admin-functions.php:1651
+msgid "Sidebar Select"
+msgstr ""
+
+#: demo/demo-settings.php:580
+msgid "This option type makes it possible for users to select a WordPress registered sidebar to use on a specific area. By using the two provided filters, %1$s, and %2$s we can be selective about which sidebars are available on a specific content area."
+msgstr ""
+
+#: demo/demo-settings.php:580
+msgid "For example, if we create a WordPress theme that provides the ability to change the Blog Sidebar and we don't want to have the footer sidebars available on this area, we can unset those sidebars either manually or by using a regular expression if we have a common name like %s."
+msgstr ""
+
+#: demo/demo-settings.php:594, includes/admin-functions.php:1653
+msgid "Social Links"
+msgstr ""
+
+#: demo/demo-settings.php:595
+msgid "The Social Links option type utilizes a drag & drop interface to create a list of social links. There are a few filters that make extending this option type easy. You can set the %1$s filter to %2$s and turn off loading default values. Use the %3$s filter to change the default values that are loaded. To filter the settings array use the %4$s filter."
+msgstr ""
+
+#: demo/demo-settings.php:609, includes/admin-functions.php:1654
+msgid "Spacing"
+msgstr ""
+
+#: demo/demo-settings.php:610
+msgid "The Spacing option type is used to set spacing values such as padding or margin in the form of top, right, bottom, and left."
+msgstr ""
+
+#: demo/demo-settings.php:624, includes/admin-functions.php:1656
+msgid "Tag Checkbox"
+msgstr ""
+
+#: demo/demo-settings.php:625
+msgid "The Tag Checkbox option type displays a list of tag IDs. It allows the user to check multiple tag IDs and will return that value as an array for use in a custom function or loop."
+msgstr ""
+
+#: demo/demo-settings.php:639, includes/admin-functions.php:1657
+msgid "Tag Select"
+msgstr ""
+
+#: demo/demo-settings.php:640
+msgid "The Tag Select option type displays a list of tag IDs. It allows the user to select only one tag ID and will return that value for use in a custom function or loop."
+msgstr ""
+
+#: demo/demo-settings.php:654, includes/admin-functions.php:1658
+msgid "Taxonomy Checkbox"
+msgstr ""
+
+#: demo/demo-settings.php:655
+msgid "The Taxonomy Checkbox option type displays a list of taxonomy IDs. It allows the user to check multiple taxonomy IDs and will return that value as an array for use in a custom function or loop."
+msgstr ""
+
+#: demo/demo-settings.php:669, includes/admin-functions.php:1659
+msgid "Taxonomy Select"
+msgstr ""
+
+#: demo/demo-settings.php:670
+msgid "The Taxonomy Select option type displays a list of taxonomy IDs. It allows the user to select only one taxonomy ID and will return that value for use in a custom function or loop."
+msgstr ""
+
+#: demo/demo-settings.php:685
+msgid "The Text option type is used to save string values. For example, any optional or required text that is of reasonably short character length."
+msgstr ""
+
+#: demo/demo-settings.php:700
+msgid "The Textarea option type is a large string value used for custom code or text in the theme and has a WYSIWYG editor that can be filtered to change the how it is displayed. For example, you can filter %1$s, %2$s, %3$s, and %4$s."
+msgstr ""
+
+#: demo/demo-settings.php:714, includes/admin-functions.php:1662
+msgid "Textarea Simple"
+msgstr ""
+
+#: demo/demo-settings.php:715
+msgid "The Textarea Simple option type is a large string value used for custom code or text in the theme. The Textarea Simple does not have a WYSIWYG editor."
+msgstr ""
+
+#: demo/demo-settings.php:729, includes/admin-functions.php:1663
+msgid "Textblock"
+msgstr ""
+
+#: demo/demo-settings.php:730
+msgid "The Textblock option type is used only on the Theme Option page. It will allow you to create & display HTML, but has no title above the text block. You can then use the Textblock to add a more detailed set of instruction on how the options are used in your theme. You would never use this in your themes template files as it does not save a value."
+msgstr ""
+
+#: demo/demo-settings.php:744, includes/admin-functions.php:1664
+msgid "Textblock Titled"
+msgstr ""
+
+#: demo/demo-settings.php:745
+msgid "The Textblock Titled option type is used only on the Theme Option page. It will allow you to create & display HTML, and has a title above the text block. You can then use the Textblock Titled to add a more detailed set of instruction on how the options are used in your theme. You would never use this in your themes template files as it does not save a value."
+msgstr ""
+
+#: demo/demo-settings.php:759, includes/admin-functions.php:1665
+msgid "Typography"
+msgstr ""
+
+#: demo/demo-settings.php:760
+msgid "The Typography option type is for adding typography styles to your theme either dynamically via the CSS option type above or manually with %1$s. The Typography option type has filters that allow you to remove fields or change the defaults. For example, you can filter %2$s to remove unwanted fields from all Background options or an individual one. You can also filter %3$s. These filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+
+#: demo/demo-settings.php:774, includes/admin-functions.php:1666
+msgid "Upload"
+msgstr ""
+
+#: demo/demo-settings.php:775
+msgid "The Upload option type is used to upload any WordPress supported media. After uploading, users are required to press the \"%1$s\" button in order to populate the input with the URI of that media. There is one caveat of this feature. If you import the Settings and have uploaded media on one site the old URI will not reflect the URI of your new site. You will have to re-upload or %2$s any media to your new server and change the URIs if necessary."
+msgstr ""
+
+#: demo/demo-settings.php:775, includes/admin-functions.php:750, prince-loader.php:386
+msgid "Done"
+msgstr ""
+
+#: demo/demo-settings.php:789
+msgid "Upload Attachment ID"
+msgstr ""
+
+#: demo/demo-settings.php:790
+msgid "The Upload option type can also be saved as an attachment ID by adding %s to the class attribute."
+msgstr ""
+
+#: demo/new-settings.php:46
+msgid "Options"
+msgstr ""
+
+#: demo/prince-settings.php:46
+msgid "Top Header Menus"
+msgstr ""
+
+#: demo/prince-settings.php:50
+msgid "Site Info"
+msgstr ""
+
+#: demo/prince-settings.php:54
+msgid "Hero Section"
+msgstr ""
+
+#: demo/prince-settings.php:58
+msgid "Services Section"
+msgstr ""
+
+#: demo/prince-settings.php:62
+msgid "Expertise Section"
+msgstr ""
+
+#: demo/prince-settings.php:66
+msgid "Skills Section"
+msgstr ""
+
+#: demo/prince-settings.php:71
+msgid "Portfolios Section"
+msgstr ""
+
+#: demo/prince-settings.php:75
+msgid "Testimonials Section"
+msgstr ""
+
+#: demo/prince-settings.php:80
+msgid "Call To Action Section"
+msgstr ""
+
+#: demo/prince-settings.php:84
+msgid "About Page"
+msgstr ""
+
+#: includes/admin-functions.php:51, includes/admin-functions.php:52, includes/admin-functions.php:111, includes/admin-functions.php:112, includes/admin-functions.php:154, includes/admin-functions.php:160, includes/admin-functions.php:178, includes/admin-functions.php:184, includes/frontend-functions.php:391
+msgid "Settings"
+msgstr ""
+
+#: includes/admin-functions.php:57, includes/admin-functions.php:117, includes/admin-functions.php:211, includes/admin-functions.php:1522
+msgid "Settings updated."
+msgstr ""
+
+#: includes/admin-functions.php:58, includes/admin-functions.php:118, includes/admin-functions.php:212
+msgid "Settings reset."
+msgstr ""
+
+#: includes/admin-functions.php:59
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin-functions.php:100, includes/admin-functions.php:101
+msgid "Prince"
+msgstr ""
+
+#: includes/admin-functions.php:119, includes/admin-functions.php:213
+msgid "Save Settings"
+msgstr ""
+
+#: includes/admin-functions.php:124
+msgid "Settings UI"
+msgstr ""
+
+#: includes/admin-functions.php:128
+msgid "Import"
+msgstr ""
+
+#: includes/admin-functions.php:132
+msgid "Export"
+msgstr ""
+
+#: includes/admin-functions.php:136, includes/admin-functions.php:166, includes/admin-functions.php:190
+msgid "Layouts"
+msgstr ""
+
+#: includes/admin-functions.php:142
+msgid "Settings UI Builder"
+msgstr ""
+
+#: includes/admin-functions.php:148
+msgid "Settings XML"
+msgstr ""
+
+#: includes/admin-functions.php:172
+msgid "Settings PHP File"
+msgstr ""
+
+#: includes/admin-functions.php:196
+msgid "Layout Management"
+msgstr ""
+
+#: includes/admin-functions.php:205, includes/admin-functions.php:206
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin-functions.php:218
+msgid "Creating Options"
+msgstr ""
+
+#: includes/admin-functions.php:226
+msgid "Function References"
+msgstr ""
+
+#: includes/admin-functions.php:230, includes/admin-functions.php:272
+msgid "Theme Mode"
+msgstr ""
+
+#: includes/admin-functions.php:234, includes/admin-functions.php:278
+msgid "Meta Boxes"
+msgstr ""
+
+#: includes/admin-functions.php:238
+msgid "Code Examples"
+msgstr ""
+
+#: includes/admin-functions.php:242
+msgid "Layouts Overview"
+msgstr ""
+
+#: includes/admin-functions.php:248
+msgid "Overview of available Theme Option fields."
+msgstr ""
+
+#: includes/admin-functions.php:254
+msgid "Option types in alphabetical order & hooks to filter them."
+msgstr ""
+
+#: includes/admin-functions.php:260
+msgid "Function Reference:prince_get_option()"
+msgstr ""
+
+#: includes/admin-functions.php:266
+msgid "Function Reference:get_prince()"
+msgstr ""
+
+#: includes/admin-functions.php:284
+msgid "Code examples for front-end development."
+msgstr ""
+
+#: includes/admin-functions.php:290
+msgid "What's a layout anyhow?"
+msgstr ""
+
+#: includes/admin-functions.php:575, includes/admin-functions.php:506, includes/admin-functions.php:404
+msgid "The %s input field for %s only allows numeric values."
+msgstr ""
+
+#: includes/admin-functions.php:465
+msgid "The %s Colorpicker only allows valid hexadecimal or rgba values."
+msgstr ""
+
+#: includes/admin-functions.php:751, includes/settings-types.php:262, includes/settings-types.php:3556
+msgid "Remove Media"
+msgstr ""
+
+#: includes/admin-functions.php:752
+msgid "Are you sure you want to reset back to the defaults?"
+msgstr ""
+
+#: includes/admin-functions.php:753
+msgid "You can't remove this! But you can edit the values."
+msgstr ""
+
+#: includes/admin-functions.php:754
+msgid "Are you sure you want to remove this?"
+msgstr ""
+
+#: includes/admin-functions.php:755
+msgid "Are you sure you want to activate this layout?"
+msgstr ""
+
+#: includes/admin-functions.php:756
+msgid "Sorry, you can't have settings three levels deep."
+msgstr ""
+
+#: includes/admin-functions.php:757, includes/settings-types.php:1193
+msgid "Delete Gallery"
+msgstr ""
+
+#: includes/admin-functions.php:758, includes/settings-types.php:1311
+msgid "Delete Playlist"
+msgstr ""
+
+#: includes/admin-functions.php:759, includes/settings-types.php:1194
+msgid "Edit Gallery"
+msgstr ""
+
+#: includes/admin-functions.php:760, includes/settings-types.php:1312
+msgid "Edit Playlist"
+msgstr ""
+
+#: includes/admin-functions.php:761, includes/settings-types.php:1201
+msgid "Create Gallery"
+msgstr ""
+
+#: includes/admin-functions.php:762, includes/settings-types.php:1317
+msgid "Create Playlist"
+msgstr ""
+
+#: includes/admin-functions.php:763
+msgid "Are you sure you want to delete this Gallery?"
+msgstr ""
+
+#: includes/admin-functions.php:764
+msgid "Are you sure you want to delete this Playlist?"
+msgstr ""
+
+#: includes/admin-functions.php:765
+msgid "Today"
+msgstr ""
+
+#: includes/admin-functions.php:766
+msgid "Now"
+msgstr ""
+
+#: includes/admin-functions.php:767
+msgid "Close"
+msgstr ""
+
+#: includes/admin-functions.php:768
+msgid "Featured Image"
+msgstr ""
+
+#: includes/admin-functions.php:769, includes/admin-functions.php:2413, includes/admin-functions.php:2474
+msgid "Image"
+msgstr ""
+
+#: includes/admin-functions.php:838
+msgid "Option Tree"
+msgstr ""
+
+#: includes/admin-functions.php:987
+msgid "General"
+msgstr ""
+
+#: includes/admin-functions.php:993
+msgid "Sample Text Field Label"
+msgstr ""
+
+#: includes/admin-functions.php:994
+msgid "Description for the sample text field."
+msgstr ""
+
+#: includes/admin-functions.php:1583
+msgid "Layout activated."
+msgstr ""
+
+#: includes/admin-functions.php:1577
+msgid "Layouts have been deleted."
+msgstr ""
+
+#: includes/admin-functions.php:1573
+msgid "Layouts could not be updated."
+msgstr ""
+
+#: includes/admin-functions.php:1569
+msgid "Layouts Updated."
+msgstr ""
+
+#: includes/admin-functions.php:1561
+msgid "Layouts could not be imported."
+msgstr ""
+
+#: includes/admin-functions.php:1557
+msgid "Layouts Imported."
+msgstr ""
+
+#: includes/admin-functions.php:1549
+msgid "Data could not be imported."
+msgstr ""
+
+#: includes/admin-functions.php:1545
+msgid "Data Imported."
+msgstr ""
+
+#: includes/admin-functions.php:1538
+msgid "Settings could not be imported."
+msgstr ""
+
+#: includes/admin-functions.php:1534
+msgid "Settings Imported."
+msgstr ""
+
+#: includes/admin-functions.php:1526
+msgid "Settings could not be saved."
+msgstr ""
+
+#: includes/admin-functions.php:1652
+msgid "Slider"
+msgstr ""
+
+#: includes/admin-functions.php:1655
+msgid "Tab"
+msgstr ""
+
+#: includes/admin-functions.php:2358
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/admin-functions.php:2363
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/admin-functions.php:2368
+msgid "Full Width (no sidebar)"
+msgstr ""
+
+#: includes/admin-functions.php:2373
+msgid "Dual Sidebar"
+msgstr ""
+
+#: includes/admin-functions.php:2378
+msgid "Left Dual Sidebar"
+msgstr ""
+
+#: includes/admin-functions.php:2383
+msgid "Right Dual Sidebar"
+msgstr ""
+
+#: includes/admin-functions.php:2424, includes/admin-functions.php:2480, includes/admin-functions.php:4396
+msgid "Link"
+msgstr ""
+
+#: includes/admin-functions.php:2435, includes/admin-functions.php:2486
+msgid "Description"
+msgstr ""
+
+#: includes/admin-functions.php:2550
+msgid "Name"
+msgstr ""
+
+#: includes/admin-functions.php:2551
+msgid "Enter the name/ title that will be shown in the title attribute of the link. %s"
+msgstr ""
+
+#: includes/admin-functions.php:2560
+msgid "Enter a link to the profile or page on the social website. Remember to add the %s part to the front of the link."
+msgstr ""
+
+#: includes/admin-functions.php:2940
+msgid "Unable to write to file %s."
+msgstr ""
+
+#: includes/admin-functions.php:3225
+msgid "edit"
+msgstr ""
+
+#: includes/admin-functions.php:3226, includes/admin-functions.php:3294, includes/admin-functions.php:3295, includes/admin-functions.php:3457, includes/admin-functions.php:3458, includes/admin-functions.php:3523, includes/admin-functions.php:3524, includes/admin-functions.php:3617, includes/admin-functions.php:3618, includes/admin-functions.php:3777, includes/admin-functions.php:3778
+msgid "Edit"
+msgstr ""
+
+#: includes/admin-functions.php:3228, includes/admin-functions.php:3229, includes/admin-functions.php:3297, includes/admin-functions.php:3298, includes/admin-functions.php:3460, includes/admin-functions.php:3461, includes/admin-functions.php:3526, includes/admin-functions.php:3527, includes/admin-functions.php:3620, includes/admin-functions.php:3621, includes/admin-functions.php:3780, includes/admin-functions.php:3781
+msgid "Delete"
+msgstr ""
+
+#: includes/admin-functions.php:3235
+msgid "<strong>Section Title</strong>: Displayed as a menu item on the Settings page."
+msgstr ""
+
+#: includes/admin-functions.php:3243
+msgid "<strong>Section ID</strong>: A unique lower case alphanumeric string, underscores allowed."
+msgstr ""
+
+#: includes/admin-functions.php:3304
+msgid "<strong>Label</strong>: Displayed as the label of a form element on the Settings page."
+msgstr ""
+
+#: includes/admin-functions.php:3312, includes/admin-functions.php:3541
+msgid "<strong>ID</strong>: A unique lower case alphanumeric string, underscores allowed."
+msgstr ""
+
+#: includes/admin-functions.php:3320
+msgid "<strong>Type</strong>: Choose one of the available option types from the dropdown."
+msgstr ""
+
+#: includes/admin-functions.php:3331
+msgid "<strong>Description</strong>: Enter a detailed description for the users to read on the Settings page, HTML is allowed. This is also where you enter content for both the Textblock & Textblock Titled option types."
+msgstr ""
+
+#: includes/admin-functions.php:3339
+msgid "<strong>Choices</strong>: This will only affect the following option types: Checkbox, Radio, Select & Done."
+msgstr ""
+
+#: includes/admin-functions.php:3344
+msgid "Add Choice"
+msgstr ""
+
+#: includes/admin-functions.php:3350
+msgid "<strong>Settings</strong>: This will only affect the List Item option type."
+msgstr ""
+
+#: includes/admin-functions.php:3355
+msgid "Add Setting"
+msgstr ""
+
+#: includes/admin-functions.php:3361
+msgid "<strong>Standard</strong>: Setting the standard value for your option only works for some option types. Read the <code>Prince->Documentation</code> for more information on which ones."
+msgstr ""
+
+#: includes/admin-functions.php:3369
+msgid "<strong>Rows</strong>: Enter a numeric value for the number of rows in your textarea. This will only affect the following option types: CSS, Textarea, & Textarea Simple."
+msgstr ""
+
+#: includes/admin-functions.php:3377
+msgid "<strong>Post Type</strong>: Add a comma separated list of post type like 'post,page'. This will only affect the following option types: Custom Post Type Checkbox, & Custom Post Type Select."
+msgstr ""
+
+#: includes/admin-functions.php:3385
+msgid "<strong>Taxonomy</strong>: Add a comma separated list of any registered taxonomy like 'category,post_tag'. This will only affect the following option types: Taxonomy Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: includes/admin-functions.php:3393
+msgid "<strong>Min, Max, & Step</strong>: Add a comma separated list of options in the following format <code>0,100,1</code> (slide from <code>0-100</code> in intervals of <code>1</code>). The three values represent the minimum, maximum, and step options and will only affect the Numeric Slider option type."
+msgstr ""
+
+#: includes/admin-functions.php:3401
+msgid "<strong>CSS Class</strong>: Add and optional class to this option type."
+msgstr ""
+
+#: includes/admin-functions.php:3409
+msgid "<strong>Condition</strong>: Add a comma separated list (no spaces) of conditions in which the field will be visible, leave this setting empty to always show the field. In these examples, <code>value</code> is a placeholder for your condition, which can be in the form of %s."
+msgstr ""
+
+#: includes/admin-functions.php:3417
+msgid "<strong>Operator</strong>: Choose the logical operator to compute the result of the conditions."
+msgstr ""
+
+#: includes/admin-functions.php:3421
+msgid "or"
+msgstr ""
+
+#: includes/admin-functions.php:3467
+msgid "Label"
+msgstr ""
+
+#: includes/admin-functions.php:3477
+msgid "Value"
+msgstr ""
+
+#: includes/admin-functions.php:3487
+msgid "Image Source (Radio Image only)"
+msgstr ""
+
+#: includes/admin-functions.php:3533
+msgid "<strong>Title</strong>: Displayed as a contextual help menu item on the Settings page."
+msgstr ""
+
+#: includes/admin-functions.php:3549
+msgid "<strong>Content</strong>: Enter the HTML content about this contextual help item displayed on the Theme Option page for end users to read."
+msgstr ""
+
+#: includes/admin-functions.php:3585, includes/meta-box-api.php:264, includes/settings-api.php:574
+msgid "Title"
+msgstr ""
+
+#: includes/admin-functions.php:4405
+msgid "Link URL"
+msgstr ""
+
+#: includes/admin-functions.php:4412
+msgid "Link Title"
+msgstr ""
+
+#: includes/admin-functions.php:4447
+msgid "Quote"
+msgstr ""
+
+#: includes/admin-functions.php:4456
+msgid "Source Name (ex. author, singer, actor)"
+msgstr ""
+
+#: includes/admin-functions.php:4463
+msgid "Source URL"
+msgstr ""
+
+#: includes/admin-functions.php:4470
+msgid "Source Title (ex. book, song, movie)"
+msgstr ""
+
+#: includes/admin-functions.php:4477
+msgid "Source Date"
+msgstr ""
+
+#: includes/admin-functions.php:4512
+msgid "Video"
+msgstr ""
+
+#: includes/admin-functions.php:4521
+msgid "Embed video from services like Youtube, Vimeo, or Hulu. You can find a list of supported oEmbed sites in the %1$s. Alternatively, you could use the built-in %2$s shortcode."
+msgstr ""
+
+#: includes/admin-functions.php:4521, includes/admin-functions.php:4565
+msgid "Wordpress Codex"
+msgstr ""
+
+#: includes/admin-functions.php:4556
+msgid "Audio"
+msgstr ""
+
+#: includes/admin-functions.php:4565
+msgid "Embed audio from services like SoundCloud and Rdio. You can find a list of supported oEmbed sites in the %1$s. Alternatively, you could use the built-in %2$s shortcode."
+msgstr ""
+
+#: includes/settings-api.php:336, includes/settings-api.php:336
+msgid "Reset Settings"
+msgstr ""
+
+#: includes/settings-types.php:47
+msgid "Sorry, this function does not exist"
+msgstr ""
+
+#: includes/settings-types.php:137
+msgid "background-repeat"
+msgstr ""
+
+#: includes/settings-types.php:155
+msgid "background-attachment"
+msgstr ""
+
+#: includes/settings-types.php:174
+msgid "background-position"
+msgstr ""
+
+#: includes/settings-types.php:227
+msgid "background-size"
+msgstr ""
+
+#: includes/settings-types.php:241
+msgid "background-image"
+msgstr ""
+
+#: includes/settings-types.php:244, includes/settings-types.php:244, includes/settings-types.php:3538, includes/settings-types.php:3538
+msgid "Add Media"
+msgstr ""
+
+#: includes/settings-types.php:322, includes/settings-types.php:1077
+msgid "width"
+msgstr ""
+
+#: includes/settings-types.php:333, includes/settings-types.php:1097, includes/settings-types.php:1707, includes/settings-types.php:2712
+msgid "unit"
+msgstr ""
+
+#: includes/settings-types.php:352
+msgid "style"
+msgstr ""
+
+#: includes/settings-types.php:446
+msgid "offset-x"
+msgstr ""
+
+#: includes/settings-types.php:455
+msgid "offset-y"
+msgstr ""
+
+#: includes/settings-types.php:464
+msgid "blur-radius"
+msgstr ""
+
+#: includes/settings-types.php:473
+msgid "spread-radius"
+msgstr ""
+
+#: includes/settings-types.php:546, includes/settings-types.php:601
+msgid "No Categories Found"
+msgstr ""
+
+#: includes/settings-types.php:596, includes/settings-types.php:897, includes/settings-types.php:2001, includes/settings-types.php:2126, includes/settings-types.php:2855, includes/settings-types.php:2978
+msgid "Choose One"
+msgstr ""
+
+#: includes/settings-types.php:838, includes/settings-types.php:903, includes/settings-types.php:2070, includes/settings-types.php:2132
+msgid "No Posts Found"
+msgstr ""
+
+#: includes/settings-types.php:1086
+msgid "height"
+msgstr ""
+
+#: includes/settings-types.php:1384, includes/settings-types.php:1384, includes/settings-types.php:1427, includes/settings-types.php:1427
+msgid "Remove Google Font"
+msgstr ""
+
+#: includes/settings-types.php:1450, includes/settings-types.php:1450
+msgid "Add Google Font"
+msgstr ""
+
+#: includes/settings-types.php:1538
+msgctxt "color picker"
+msgid "Standard"
+msgstr ""
+
+#: includes/settings-types.php:1539
+msgctxt "color picker"
+msgid "Hover"
+msgstr ""
+
+#: includes/settings-types.php:1540
+msgctxt "color picker"
+msgid "Active"
+msgstr ""
+
+#: includes/settings-types.php:1541
+msgctxt "color picker"
+msgid "Visited"
+msgstr ""
+
+#: includes/settings-types.php:1542
+msgctxt "color picker"
+msgid "Focus"
+msgstr ""
+
+#: includes/settings-types.php:1653, includes/settings-types.php:1653, includes/settings-types.php:2449, includes/settings-types.php:2449, includes/settings-types.php:2616, includes/settings-types.php:2616
+msgid "Add New"
+msgstr ""
+
+#: includes/settings-types.php:1832
+msgid "On"
+msgstr ""
+
+#: includes/settings-types.php:1856
+msgid "Off"
+msgstr ""
+
+#: includes/settings-types.php:1945, includes/settings-types.php:2007
+msgid "No Pages Found"
+msgstr ""
+
+#: includes/settings-types.php:2375
+msgid "No Sidebars"
+msgstr ""
+
+#: includes/settings-types.php:2370
+msgid "Choose Sidebar"
+msgstr ""
+
+#: includes/settings-types.php:2452, includes/settings-types.php:2619
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr ""
+
+#: includes/settings-types.php:2486
+msgid "Facebook"
+msgstr ""
+
+#: includes/settings-types.php:2491
+msgid "Twitter"
+msgstr ""
+
+#: includes/settings-types.php:2496
+msgid "Google+"
+msgstr ""
+
+#: includes/settings-types.php:2501
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/settings-types.php:2506
+msgid "Pinterest"
+msgstr ""
+
+#: includes/settings-types.php:2511
+msgid "Youtube"
+msgstr ""
+
+#: includes/settings-types.php:2516
+msgid "Dribbble"
+msgstr ""
+
+#: includes/settings-types.php:2521
+msgid "Github"
+msgstr ""
+
+#: includes/settings-types.php:2526
+msgid "Forrst"
+msgstr ""
+
+#: includes/settings-types.php:2531
+msgid "Digg"
+msgstr ""
+
+#: includes/settings-types.php:2536
+msgid "Delicious"
+msgstr ""
+
+#: includes/settings-types.php:2541
+msgid "Tumblr"
+msgstr ""
+
+#: includes/settings-types.php:2546
+msgid "Skype"
+msgstr ""
+
+#: includes/settings-types.php:2551
+msgid "SoundCloud"
+msgstr ""
+
+#: includes/settings-types.php:2556
+msgid "Vimeo"
+msgstr ""
+
+#: includes/settings-types.php:2561
+msgid "Flickr"
+msgstr ""
+
+#: includes/settings-types.php:2566
+msgid "VK.com"
+msgstr ""
+
+#: includes/settings-types.php:2674
+msgid "top"
+msgstr ""
+
+#: includes/settings-types.php:2683
+msgid "right"
+msgstr ""
+
+#: includes/settings-types.php:2692
+msgid "bottom"
+msgstr ""
+
+#: includes/settings-types.php:2701
+msgid "left"
+msgstr ""
+
+#: includes/settings-types.php:2805, includes/settings-types.php:2860
+msgid "No Tags Found"
+msgstr ""
+
+#: includes/settings-types.php:2922, includes/settings-types.php:2983
+msgid "No Taxonomies Found"
+msgstr ""

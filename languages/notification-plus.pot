@@ -1,0 +1,1911 @@
+# Copyright (C) 2020 notification-plus
+# This file is distributed under the same license as the notification-plus package.
+msgid ""
+msgstr ""
+"Project-Id-Version: notification-plus\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/admin/class-admin.php:31, includes/admin/views/pages/statistics.php:4
+msgid "Notification Statistics"
+msgstr ""
+
+#: includes/admin/class-admin.php:31
+msgid "Statistics"
+msgstr ""
+
+#: includes/admin/class-admin.php:53, includes/admin/class-admin.php:75, includes/admin/views/metabox/preview.php:11
+msgid "Preview"
+msgstr ""
+
+#: includes/admin/class-admin.php:54, includes/admin/views/metabox/menu.php:50, includes/admin/views/pages/statistics-top-pages.php:15
+msgid "Type"
+msgstr ""
+
+#: includes/admin/class-admin.php:55
+msgid "Status"
+msgstr ""
+
+#: includes/admin/class-admin.php:56
+msgid "Shortcode"
+msgstr ""
+
+#: includes/admin/class-admin.php:58
+msgid "Date"
+msgstr ""
+
+#: includes/admin/class-admin.php:103
+msgid "Copy Shortcode"
+msgstr ""
+
+#: includes/admin/class-ajax.php:23
+msgid "No Cheating!"
+msgstr ""
+
+#: includes/admin/class-ajax.php:27
+msgid "Type is not set."
+msgstr ""
+
+#: includes/admin/class-metabox.php:13
+msgid "Notification Settings"
+msgstr ""
+
+#: includes/admin/settings.php:27
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/settings.php:33
+msgid "Branding Settings"
+msgstr ""
+
+#: includes/admin/settings.php:39
+msgid "Statistics & Reporting"
+msgstr ""
+
+#: includes/admin/settings.php:51
+msgid "Modules"
+msgstr ""
+
+#: includes/admin/settings.php:52
+msgid "Enable/ Disable the modules that you need."
+msgstr ""
+
+#: includes/admin/settings.php:65
+msgid "Show/ Hide Branding"
+msgstr ""
+
+#: includes/admin/settings.php:66
+msgid "Show/ Hide, Powered by text from notification."
+msgstr ""
+
+#: includes/admin/settings.php:77
+msgid "Branding Name"
+msgstr ""
+
+#: includes/admin/settings.php:78
+msgid "Enter the branding name."
+msgstr ""
+
+#: includes/admin/settings.php:89
+msgid "Branding URL"
+msgstr ""
+
+#: includes/admin/settings.php:90
+msgid "Enter the branding URL."
+msgstr ""
+
+#: includes/admin/settings.php:101
+msgid "Enable/ Disable Statistics"
+msgstr ""
+
+#: includes/admin/settings.php:102
+msgid "Enable/ Disable, Statistics Report."
+msgstr ""
+
+#: includes/admin/settings.php:111
+msgid "Enable/ Disable Email Reporting"
+msgstr ""
+
+#: includes/admin/settings.php:112
+msgid "Enable/ disable, statistics email report."
+msgstr ""
+
+#: includes/admin/settings.php:123
+msgid "Reporting Frequency"
+msgstr ""
+
+#: includes/admin/settings.php:124
+msgid "Select the reporting frequency, when you want to receive the email report."
+msgstr ""
+
+#: includes/admin/settings.php:132
+msgid "Once Daily"
+msgstr ""
+
+#: includes/admin/settings.php:133
+msgid "Once Weekly"
+msgstr ""
+
+#: includes/admin/settings.php:134
+msgid "Once Monthly"
+msgstr ""
+
+#: includes/admin/settings.php:140
+msgid "Select Reporting Day"
+msgstr ""
+
+#: includes/admin/settings.php:141
+msgid "Select the day of the Week, when you want to receive the email report."
+msgstr ""
+
+#: includes/admin/settings.php:149
+msgid "Sunday"
+msgstr ""
+
+#: includes/admin/settings.php:150
+msgid "Monday"
+msgstr ""
+
+#: includes/admin/settings.php:151
+msgid "Tuesday"
+msgstr ""
+
+#: includes/admin/settings.php:152
+msgid "Wednesday"
+msgstr ""
+
+#: includes/admin/settings.php:153
+msgid "Thursday"
+msgstr ""
+
+#: includes/admin/settings.php:154
+msgid "Friday"
+msgstr ""
+
+#: includes/admin/settings.php:155
+msgid "Saturday"
+msgstr ""
+
+#: includes/admin/settings.php:162
+msgid "Reporting Email"
+msgstr ""
+
+#: includes/admin/settings.php:163
+msgid "Enter the email, where the statistics report will be send."
+msgstr ""
+
+#: includes/admin/settings.php:174
+msgid "Reporting Email Subject"
+msgstr ""
+
+#: includes/admin/settings.php:175
+msgid "Enter the reporting email subject."
+msgstr ""
+
+#: includes/admin/settings.php:176
+msgid "Daily Engagement Statistics of \"%s\"."
+msgstr ""
+
+#: includes/admin/settings.php:186
+msgid "Reporting Test"
+msgstr ""
+
+#: includes/admin/settings.php:187
+msgid "Test email report now."
+msgstr ""
+
+#: includes/admin/settings.php:233
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/settings.php:231
+msgid "Show"
+msgstr ""
+
+#: includes/admin/settings.php:243
+msgid "Disable"
+msgstr ""
+
+#: includes/admin/settings.php:241
+msgid "Hide"
+msgstr ""
+
+#: includes/admin/settings.php:310
+msgid "Test Report"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:101
+msgid "Title Message:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:111
+msgid "Description Message:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:121, includes/admin/views/metabox/fields/latest-conversion-custom.php:92, includes/admin/views/metabox/fields/latest-conversion-custom.php:35, includes/admin/views/metabox/fields/latest-conversion-custom.php:147
+msgid "Image:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:123, includes/admin/views/metabox/fields/latest-conversion-custom.php:94, includes/admin/views/metabox/fields/latest-conversion-custom.php:37, includes/admin/views/metabox/fields/latest-conversion-custom.php:149, includes/admin/views/metabox/fields/latest-conversion-edd.php:65, includes/admin/views/metabox/fields/latest-conversion-woocommerce.php:67
+msgid "Notification Image"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:128, includes/admin/views/metabox/fields/latest-conversion-custom.php:99, includes/admin/views/metabox/fields/latest-conversion-custom.php:42, includes/admin/views/metabox/fields/latest-conversion-custom.php:154, includes/admin/views/metabox/fields/latest-conversion-edd.php:70, includes/admin/views/metabox/fields/latest-conversion-woocommerce.php:72, includes/class-enqueue.php:84
+msgid "Choose Image"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:131, includes/admin/views/metabox/fields/latest-conversion-custom.php:102, includes/admin/views/metabox/fields/latest-conversion-custom.php:45, includes/admin/views/metabox/fields/latest-conversion-custom.php:157, includes/admin/views/metabox/fields/latest-conversion-edd.php:73, includes/admin/views/metabox/fields/latest-conversion-woocommerce.php:75
+msgid "Remove Image"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:134, includes/admin/views/metabox/fields/latest-conversion-custom.php:105, includes/admin/views/metabox/fields/latest-conversion-custom.php:48, includes/admin/views/metabox/fields/latest-conversion-custom.php:160, includes/admin/views/metabox/fields/latest-conversion-edd.php:76, includes/admin/views/metabox/fields/latest-conversion-woocommerce.php:78
+msgid ""
+"Leave empty for no image. Hint: icons8.com has a good library of small icons that you can\n"
+"            use."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:144, includes/admin/views/metabox/fields/latest-conversion-custom.php:110, includes/admin/views/metabox/fields/latest-conversion-custom.php:53, includes/admin/views/metabox/fields/latest-conversion-custom.php:165
+msgid "Notification URL:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:146, includes/admin/views/metabox/fields/latest-conversion-custom.php:112, includes/admin/views/metabox/fields/latest-conversion-custom.php:55, includes/admin/views/metabox/fields/latest-conversion-custom.php:167, includes/admin/views/metabox/fields/latest-conversion-edd.php:94, includes/admin/views/metabox/fields/latest-conversion-woocommerce.php:97
+msgid ""
+"The URL you want to user to go to after clicking the notification. Leave empty for no\n"
+"            link."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:156
+msgid "Title Color:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:166
+msgid "Description Color:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:176
+msgid "Background Color:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:186
+msgid "Content Title Color:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:197
+msgid "Content Description Color:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:207
+msgid "Border Radius:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:209
+msgid "Straight"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:210
+msgid "Rounded"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:211
+msgid "Round"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:213
+msgid "Change the shape of the corners of the notification"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:222
+msgid "Display Duration:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:224
+msgid "How many seconds to display the notification. Set -1 to display forever."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:232
+msgid "Minimum activity:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:234
+msgid "Minimum data needed to display the notification."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:242
+msgid "Display Position:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:245
+msgid "Top Left"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:248
+msgid "Top Center"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:251
+msgid "Top Right"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:254
+msgid "Middle Left"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:257
+msgid "Middle Center"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:260
+msgid "Middle Right"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:263
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:266
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:269
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:272
+msgid "Position of the notification on the screen. Position doesn't change on the preview."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:281
+msgid "Display Close Button:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:290
+msgid "Display Branding:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:294
+msgid "Branding Name:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:296
+msgid "Branding URL:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:306
+msgid "Trigger on:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:310
+msgid "Everywhere:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:315
+msgid "Selected Pages:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:320
+msgid "Use Only As Shortcode:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:324
+msgid "Where should the notification show?"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:328
+msgid "Select Locations:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:336
+msgid "You can select multiple locations."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:340
+msgid "Post/ Page IDs:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:342
+msgid "Comma Separated ID of Post, Page or Custom Post Type Posts."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:351
+msgid "Display For:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:355
+msgid "Everyone:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:360
+msgid "Logged In Users"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:365
+msgid "Logged Out Users"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:369
+msgid "Who should see the notification?"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:378
+msgid "Display Trigger:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:383
+msgid "Delay"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:386
+msgid "Exit Intent"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:389
+msgid "Scroll Percentage"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:397
+msgid "On what event the notification should show up."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:407
+msgid "Display notification once per session"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:409
+msgid "A visitor session is cleared once the browser is closed."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:419
+msgid "Display on Mobile"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:421
+msgid ""
+"Whether or not to display the notification on when pixels available are smaller than\n"
+"            768px."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:430
+msgid "Email Placeholder:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:440
+msgid "Button Text:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:450
+msgid "Button URL:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:460
+msgid "Count data from last X minutes:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:470
+msgid "Coupon Code:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:480
+msgid "Footer Text:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:492
+msgid "Show Agreement:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:494
+msgid "Require the user to confirm his agreement by ticking a checkbox."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:499
+msgid "Agreement Text:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:504
+msgid "Agreement URL:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:514, includes/admin/views/metabox/fields/fields.php:524
+msgid "Button Background Color:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:534
+msgid "Button Color:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:544
+msgid "Number Color:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:554
+msgid "Time Color:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:564
+msgid "Time Background Color:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:574
+msgid "Number Background Color:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:584
+msgid "Pulse Background Color:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:596
+msgid "Enable Notification Sound:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:598
+msgid "Enable to play a sound when the notification will show."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:602
+msgid "Select Notification Sound:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:605
+msgid "To The Point"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:606
+msgid "Subscription Two"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:607
+msgid "Subscription One"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:608
+msgid "Intuition"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:609
+msgid "Review One"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:610
+msgid "Review Two"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:611
+msgid "Sales One"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:612
+msgid "Sales Two"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:613
+msgid "Stats One"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:614
+msgid "Stats Two"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:619
+msgid "Select Sound"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:632
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:638
+msgid "Notification Sound Volume:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:645
+msgid "Adjust the notification sound volume."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:656
+msgid "Show Angry"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:661
+msgid "Show Sad"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:666
+msgid "Show Neutral"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:671
+msgid "Show Happy"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:676
+msgid "Show Excited"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:683
+msgid "How many notification to show?"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:691
+msgid "First notification delay:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:700
+msgid "Delay Between:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:709
+msgid "Content Title:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:717
+msgid "Content Description:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:725
+msgid "Input Placeholder:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:733
+msgid "Share URL:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:735
+msgid ""
+"Leave empty if you want the URL to be dynamic to the current page where the notification\n"
+"            is shown."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:742
+msgid "Facebook Share"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:749
+msgid "Twitter Share"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:756
+msgid "Linkedin Share"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:764
+msgid "YouTube Video Url"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:766
+msgid "Ex: https://www.youtube.com/watch?v=3WxQgvuT6ZI"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:773, includes/admin/views/pages/statistics-filter-bar.php:28
+msgid "End Date"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:781, includes/prince-settings/includes/admin-functions.php:4154
+msgid "Link URL"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:790
+msgid "Link URL Text:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:801
+msgid "Custom Notification"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:808
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:811
+msgid "You have to install WooCommerce plugin first."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:815
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/fields.php:818
+msgid "You have to install Easy Digital Downloads plugin first."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/latest-conversion-custom.php:82, includes/admin/views/metabox/fields/latest-conversion-custom.php:25, includes/admin/views/metabox/fields/latest-conversion-custom.php:137, includes/admin/views/metabox/fields/latest-conversion-edd.php:3, includes/admin/views/metabox/fields/latest-conversion-woocommerce.php:3
+msgid "Conversion Who:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/latest-conversion-custom.php:87, includes/admin/views/metabox/fields/latest-conversion-custom.php:30, includes/admin/views/metabox/fields/latest-conversion-custom.php:142, includes/admin/views/metabox/fields/latest-conversion-edd.php:12, includes/admin/views/metabox/fields/latest-conversion-woocommerce.php:12
+msgid "Conversion Text:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/latest-conversion-custom.php:117, includes/admin/views/metabox/fields/latest-conversion-custom.php:60, includes/admin/views/metabox/fields/latest-conversion-custom.php:172
+msgid "Time:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/latest-conversion-edd.php:21, includes/admin/views/metabox/fields/latest-conversion-woocommerce.php:21
+msgid "Show Notification of:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/latest-conversion-edd.php:30, includes/admin/views/metabox/fields/latest-conversion-woocommerce.php:30
+msgid "Select Product:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/latest-conversion-edd.php:49, includes/admin/views/metabox/fields/latest-conversion-woocommerce.php:50
+msgid "Select the specific product."
+msgstr ""
+
+#: includes/admin/views/metabox/fields/latest-conversion-edd.php:54, includes/admin/views/metabox/fields/latest-conversion-woocommerce.php:55
+msgid "Image Type:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/latest-conversion-edd.php:63, includes/admin/views/metabox/fields/latest-conversion-woocommerce.php:65, includes/prince-settings/includes/admin-functions.php:530, includes/prince-settings/includes/admin-functions.php:2162, includes/prince-settings/includes/admin-functions.php:2223
+msgid "Image"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/latest-conversion-edd.php:82, includes/admin/views/metabox/fields/latest-conversion-woocommerce.php:84
+msgid "Notification URL Type:"
+msgstr ""
+
+#: includes/admin/views/metabox/fields/latest-conversion-edd.php:92, includes/admin/views/metabox/fields/latest-conversion-woocommerce.php:95
+msgid "Notification URL"
+msgstr ""
+
+#: includes/admin/views/metabox/index.php:21
+msgid "Previous"
+msgstr ""
+
+#: includes/admin/views/metabox/index.php:22
+msgid "Next"
+msgstr ""
+
+#: includes/admin/views/metabox/menu.php:11
+msgid "Source"
+msgstr ""
+
+#: includes/admin/views/metabox/menu.php:16
+msgid "Theme"
+msgstr ""
+
+#: includes/admin/views/metabox/menu.php:21
+msgid "Content"
+msgstr ""
+
+#: includes/admin/views/metabox/menu.php:26
+msgid "Display"
+msgstr ""
+
+#: includes/admin/views/metabox/menu.php:31
+msgid "Customize"
+msgstr ""
+
+#: includes/admin/views/metabox/menu.php:35
+msgid "Sound"
+msgstr ""
+
+#: includes/admin/views/pages/statistics-data.php:6
+msgid "Submitted Data"
+msgstr ""
+
+#: includes/admin/views/pages/statistics-data.php:7
+msgid "List of all the submitted Data through the form."
+msgstr ""
+
+#: includes/admin/views/pages/statistics-data.php:14
+msgid "Data"
+msgstr ""
+
+#: includes/admin/views/pages/statistics-data.php:15
+msgid "IP"
+msgstr ""
+
+#: includes/admin/views/pages/statistics-data.php:16, includes/admin/views/pages/statistics-top-pages.php:14
+msgid "URL"
+msgstr ""
+
+#: includes/admin/views/pages/statistics-filter-bar.php:6
+msgid "Select Notification"
+msgstr ""
+
+#: includes/admin/views/pages/statistics-filter-bar.php:23
+msgid "Start Date"
+msgstr ""
+
+#: includes/admin/views/pages/statistics-summary-emoji.php:27, includes/admin/views/pages/statistics-summary-emoji.php:31, includes/admin/views/pages/statistics-summary-score.php:27, includes/admin/views/pages/statistics-summary-score.php:31
+msgid "Feedback Submissions"
+msgstr ""
+
+#: includes/admin/views/pages/statistics-table-feedback-score.php:6, includes/admin/views/pages/statistics-top-emoji.php:6
+msgid "Feedbacks"
+msgstr ""
+
+#: includes/admin/views/pages/statistics-table-feedback-score.php:7
+msgid "Reacted scores by counts."
+msgstr ""
+
+#: includes/admin/views/pages/statistics-table-feedback-score.php:14, includes/admin/views/pages/statistics-top-emoji.php:14
+msgid "Feedback"
+msgstr ""
+
+#: includes/admin/views/pages/statistics-table-feedback-score.php:15, includes/admin/views/pages/statistics-top-emoji.php:15
+msgid "Count"
+msgstr ""
+
+#: includes/admin/views/pages/statistics-top-emoji.php:7
+msgid "Reacted emoji by counts."
+msgstr ""
+
+#: includes/admin/views/pages/statistics-top-pages.php:6
+msgid "Top Pages"
+msgstr ""
+
+#: includes/admin/views/pages/statistics-top-pages.php:7
+msgid "Most active pages on which notifications had most activity."
+msgstr ""
+
+#: includes/admin/views/pages/statistics-top-pages.php:16
+msgid "Uniques"
+msgstr ""
+
+#: includes/admin/views/pages/statistics-top-pages.php:17
+msgid "Sessions"
+msgstr ""
+
+#: includes/class-cpt.php:22
+msgid "Notification Plus"
+msgstr ""
+
+#: includes/class-cpt.php:22, includes/class-enqueue.php:81
+msgid "Notification"
+msgstr ""
+
+#: includes/class-cpt.php:22
+msgid "Notifications"
+msgstr ""
+
+#: includes/class-cpt.php:44
+msgid "All %s"
+msgstr ""
+
+#: includes/class-cpt.php:46, includes/prince-settings/includes/settings-types.php:1653, includes/prince-settings/includes/settings-types.php:1653, includes/prince-settings/includes/settings-types.php:2449, includes/prince-settings/includes/settings-types.php:2449, includes/prince-settings/includes/settings-types.php:2616, includes/prince-settings/includes/settings-types.php:2616
+msgid "Add New"
+msgstr ""
+
+#: includes/class-cpt.php:47
+msgid "Add New %s"
+msgstr ""
+
+#: includes/class-cpt.php:48
+msgid "Edit %s"
+msgstr ""
+
+#: includes/class-cpt.php:49
+msgid "New %s"
+msgstr ""
+
+#: includes/class-cpt.php:50
+msgid "View %s"
+msgstr ""
+
+#: includes/class-cpt.php:51
+msgid "Search %s"
+msgstr ""
+
+#: includes/class-cpt.php:52
+msgid "No %s found"
+msgstr ""
+
+#: includes/class-cpt.php:53
+msgid "No %s found in Trash"
+msgstr ""
+
+#: includes/class-cpt.php:54
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/class-enqueue.php:79, includes/class-hooks.php:28
+msgid "Disabled"
+msgstr ""
+
+#: includes/class-enqueue.php:80, includes/class-hooks.php:32
+msgid "Enabled"
+msgstr ""
+
+#: includes/class-enqueue.php:82
+msgid "Copied to Clipboard."
+msgstr ""
+
+#: includes/class-enqueue.php:83
+msgid "Select Locations"
+msgstr ""
+
+#: includes/class-enqueue.php:85
+msgid "This type is only available on the PRO version"
+msgstr ""
+
+#: includes/class-notifications.php:61
+msgid "Informational"
+msgstr ""
+
+#: includes/class-notifications.php:70
+msgid "Coupon"
+msgstr ""
+
+#: includes/class-notifications.php:85
+msgid "Live Counter"
+msgstr ""
+
+#: includes/class-notifications.php:95
+msgid "Email Collector"
+msgstr ""
+
+#: includes/class-notifications.php:105
+msgid "Latest Conversion"
+msgstr ""
+
+#: includes/class-notifications.php:146
+msgid "Conversions Counter"
+msgstr ""
+
+#: includes/class-notifications.php:158, includes/prince-settings/includes/admin-functions.php:4261
+msgid "Video"
+msgstr ""
+
+#: includes/class-notifications.php:167
+msgid "Social Share"
+msgstr ""
+
+#: includes/class-notifications.php:179
+msgid "Random Review"
+msgstr ""
+
+#: includes/class-notifications.php:190
+msgid "Emoji Feedback"
+msgstr ""
+
+#: includes/class-notifications.php:207
+msgid "Cookie Notification"
+msgstr ""
+
+#: includes/class-notifications.php:218
+msgid "Score Feedback"
+msgstr ""
+
+#: includes/class-notifications.php:231
+msgid "Request Collector"
+msgstr ""
+
+#: includes/class-notifications.php:244
+msgid "Countdown Collector"
+msgstr ""
+
+#: includes/class-statistics.php:27
+msgid "Impressions"
+msgstr ""
+
+#: includes/class-statistics.php:28
+msgid "Mouse Hovers"
+msgstr ""
+
+#: includes/class-statistics.php:29
+msgid "Clicks"
+msgstr ""
+
+#: includes/class-statistics.php:30
+msgid "Submissions"
+msgstr ""
+
+#: includes/class-statistics.php:31
+msgid "Feedback Emoji Angry"
+msgstr ""
+
+#: includes/class-statistics.php:32
+msgid "Feedback Emoji Sad"
+msgstr ""
+
+#: includes/class-statistics.php:33
+msgid "Feedback Emoji Neutral"
+msgstr ""
+
+#: includes/class-statistics.php:34
+msgid "Feedback Emoji Happy"
+msgstr ""
+
+#: includes/class-statistics.php:35
+msgid "Feedback Emoji Excited"
+msgstr ""
+
+#: includes/class-statistics.php:36
+msgid "Feedback Score 1"
+msgstr ""
+
+#: includes/class-statistics.php:37
+msgid "Feedback Score 2"
+msgstr ""
+
+#: includes/class-statistics.php:38
+msgid "Feedback Score 3"
+msgstr ""
+
+#: includes/class-statistics.php:39
+msgid "Feedback Score 4"
+msgstr ""
+
+#: includes/class-statistics.php:40
+msgid "Feedback Score 5"
+msgstr ""
+
+#: includes/class-statistics.php:447
+msgid "No Data Found!"
+msgstr ""
+
+#: includes/functions.php:8
+msgid "Front Page"
+msgstr ""
+
+#: includes/functions.php:9
+msgid "Blog Page"
+msgstr ""
+
+#: includes/functions.php:10
+msgid "All Posts, Pages and Custom Post Types"
+msgstr ""
+
+#: includes/functions.php:11
+msgid "All Posts"
+msgstr ""
+
+#: includes/functions.php:12
+msgid "All Pages"
+msgstr ""
+
+#: includes/functions.php:13
+msgid "All Attachments"
+msgstr ""
+
+#: includes/functions.php:14
+msgid "Search Results"
+msgstr ""
+
+#: includes/functions.php:15
+msgid "404 Error Page"
+msgstr ""
+
+#: includes/functions.php:16
+msgid "All Archives"
+msgstr ""
+
+#: includes/functions.php:17
+msgid "All Category Archives"
+msgstr ""
+
+#: includes/functions.php:18
+msgid "All Tag Archives"
+msgstr ""
+
+#: includes/functions.php:19
+msgid "Custom Post or Page IDs"
+msgstr ""
+
+#: includes/notifications/conversions_counter.php:15
+msgid "In the last %s hours"
+msgstr ""
+
+#: includes/notifications/countdown_collector.php:20
+msgid "days"
+msgstr ""
+
+#: includes/notifications/countdown_collector.php:25
+msgid "hours"
+msgstr ""
+
+#: includes/notifications/countdown_collector.php:30
+msgid "minutes"
+msgstr ""
+
+#: includes/notifications/countdown_collector.php:35
+msgid "seconds"
+msgstr ""
+
+#: includes/notifications/emoji_feedback.php:8
+msgid "Feedback Angry"
+msgstr ""
+
+#: includes/notifications/emoji_feedback.php:11
+msgid "Feedback Sad"
+msgstr ""
+
+#: includes/notifications/emoji_feedback.php:14
+msgid "Feedback Neutral"
+msgstr ""
+
+#: includes/notifications/emoji_feedback.php:17
+msgid "Feedback Happy"
+msgstr ""
+
+#: includes/notifications/emoji_feedback.php:20
+msgid "Feedback Excited"
+msgstr ""
+
+#: includes/notifications/social_share.php:8, includes/prince-settings/includes/settings-types.php:2486
+msgid "Facebook"
+msgstr ""
+
+#: includes/notifications/social_share.php:10, includes/prince-settings/includes/settings-types.php:2491
+msgid "Twitter"
+msgstr ""
+
+#: includes/notifications/social_share.php:12
+msgid "Linkedin"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:51, includes/prince-settings/includes/admin-functions.php:52, includes/prince-settings/includes/frontend-functions.php:391
+msgid "Settings"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:57, includes/prince-settings/includes/admin-functions.php:1283
+msgid "Settings updated."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:58
+msgid "Settings reset."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:59
+msgid "Save Changes"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:337, includes/prince-settings/includes/admin-functions.php:268, includes/prince-settings/includes/admin-functions.php:166
+msgid "The %s input field for %s only allows numeric values."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:227
+msgid "The %s Colorpicker only allows valid hexadecimal or rgba values."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:511, includes/prince-settings/prince-loader.php:381
+msgid "Done"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:512, includes/prince-settings/includes/settings-types.php:262, includes/prince-settings/includes/settings-types.php:3556
+msgid "Remove Media"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:513
+msgid "Are you sure you want to reset back to the defaults?"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:514
+msgid "You can't remove this! But you can edit the values."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:515
+msgid "Are you sure you want to remove this?"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:516
+msgid "Are you sure you want to activate this layout?"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:517
+msgid "Sorry, you can't have settings three levels deep."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:518, includes/prince-settings/includes/settings-types.php:1193
+msgid "Delete Gallery"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:519, includes/prince-settings/includes/settings-types.php:1311
+msgid "Delete Playlist"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:520, includes/prince-settings/includes/settings-types.php:1194
+msgid "Edit Gallery"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:521, includes/prince-settings/includes/settings-types.php:1312
+msgid "Edit Playlist"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:522, includes/prince-settings/includes/settings-types.php:1201
+msgid "Create Gallery"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:523, includes/prince-settings/includes/settings-types.php:1317
+msgid "Create Playlist"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:524
+msgid "Are you sure you want to delete this Gallery?"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:525
+msgid "Are you sure you want to delete this Playlist?"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:526
+msgid "Today"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:527
+msgid "Now"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:528
+msgid "Close"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:529
+msgid "Featured Image"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:599
+msgid "Option Tree"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:748
+msgid "General"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:754
+msgid "Sample Text Field Label"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:755
+msgid "Description for the sample text field."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1344
+msgid "Layout activated."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1338
+msgid "Layouts have been deleted."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1334
+msgid "Layouts could not be updated."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1330
+msgid "Layouts Updated."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1322
+msgid "Layouts could not be imported."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1318
+msgid "Layouts Imported."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1310
+msgid "Data could not be imported."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1306
+msgid "Data Imported."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1299
+msgid "Settings could not be imported."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1295
+msgid "Settings Imported."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1287
+msgid "Settings could not be saved."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1383
+msgid "Background"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1384
+msgid "Border"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1385
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1386
+msgid "Category Checkbox"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1387
+msgid "Category Select"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1388
+msgid "Checkbox"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1389
+msgid "Colorpicker"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1390
+msgid "Colorpicker Opacity"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1391
+msgid "CSS"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1392
+msgid "Custom Post Type Checkbox"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1393
+msgid "Custom Post Type Select"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1394
+msgid "Date Picker"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1395
+msgid "Date Time Picker"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1396
+msgid "Dimension"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1397, includes/prince-settings/includes/admin-functions.php:4100
+msgid "Gallery"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1398
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1399
+msgid "JavaScript"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1400
+msgid "Link Color"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1401
+msgid "List Item"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1402
+msgid "Measurement"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1403
+msgid "Numeric Slider"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1404
+msgid "On/Off"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1405
+msgid "Page Checkbox"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1406
+msgid "Page Select"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1407
+msgid "Post Checkbox"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1408
+msgid "Post Select"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1409
+msgid "Radio"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1410
+msgid "Radio Image"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1411
+msgid "Select"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1412
+msgid "Sidebar Select"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1413
+msgid "Slider"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1414
+msgid "Social Links"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1415
+msgid "Spacing"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1416
+msgid "Tab"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1417
+msgid "Tag Checkbox"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1418
+msgid "Tag Select"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1419
+msgid "Taxonomy Checkbox"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1420
+msgid "Taxonomy Select"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1421
+msgid "Text"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1422
+msgid "Textarea"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1423
+msgid "Textarea Simple"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1424
+msgid "Textblock"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1425
+msgid "Textblock Titled"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1426
+msgid "Typography"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:1427
+msgid "Upload"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2107
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2112
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2117
+msgid "Full Width (no sidebar)"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2122
+msgid "Dual Sidebar"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2127
+msgid "Left Dual Sidebar"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2132
+msgid "Right Dual Sidebar"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2173, includes/prince-settings/includes/admin-functions.php:2229, includes/prince-settings/includes/admin-functions.php:4145
+msgid "Link"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2184, includes/prince-settings/includes/admin-functions.php:2235
+msgid "Description"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2299
+msgid "Name"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2300
+msgid "Enter the name/ title that will be shown in the title attribute of the link. %s"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2309
+msgid "Enter a link to the profile or page on the social website. Remember to add the %s part to the front of the link."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2689
+msgid "Unable to write to file %s."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2974
+msgid "edit"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2975, includes/prince-settings/includes/admin-functions.php:3043, includes/prince-settings/includes/admin-functions.php:3044, includes/prince-settings/includes/admin-functions.php:3206, includes/prince-settings/includes/admin-functions.php:3207, includes/prince-settings/includes/admin-functions.php:3272, includes/prince-settings/includes/admin-functions.php:3273, includes/prince-settings/includes/admin-functions.php:3366, includes/prince-settings/includes/admin-functions.php:3367, includes/prince-settings/includes/admin-functions.php:3526, includes/prince-settings/includes/admin-functions.php:3527
+msgid "Edit"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2977, includes/prince-settings/includes/admin-functions.php:2978, includes/prince-settings/includes/admin-functions.php:3046, includes/prince-settings/includes/admin-functions.php:3047, includes/prince-settings/includes/admin-functions.php:3209, includes/prince-settings/includes/admin-functions.php:3210, includes/prince-settings/includes/admin-functions.php:3275, includes/prince-settings/includes/admin-functions.php:3276, includes/prince-settings/includes/admin-functions.php:3369, includes/prince-settings/includes/admin-functions.php:3370, includes/prince-settings/includes/admin-functions.php:3529, includes/prince-settings/includes/admin-functions.php:3530
+msgid "Delete"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2984
+msgid "<strong>Section Title</strong>: Displayed as a menu item on the Settings page."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:2992
+msgid "<strong>Section ID</strong>: A unique lower case alphanumeric string, underscores allowed."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3053
+msgid "<strong>Label</strong>: Displayed as the label of a form element on the Settings page."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3061, includes/prince-settings/includes/admin-functions.php:3290
+msgid "<strong>ID</strong>: A unique lower case alphanumeric string, underscores allowed."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3069
+msgid "<strong>Type</strong>: Choose one of the available option types from the dropdown."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3080
+msgid "<strong>Description</strong>: Enter a detailed description for the users to read on the Settings page, HTML is allowed. This is also where you enter content for both the Textblock & Textblock Titled option types."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3088
+msgid "<strong>Choices</strong>: This will only affect the following option types: Checkbox, Radio, Select & Done."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3093
+msgid "Add Choice"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3099
+msgid "<strong>Settings</strong>: This will only affect the List Item option type."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3104
+msgid "Add Setting"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3110
+msgid "<strong>Standard</strong>: Setting the standard value for your option only works for some option types. Read the <code>Prince->Documentation</code> for more information on which ones."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3118
+msgid "<strong>Rows</strong>: Enter a numeric value for the number of rows in your textarea. This will only affect the following option types: CSS, Textarea, & Textarea Simple."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3126
+msgid "<strong>Post Type</strong>: Add a comma separated list of post type like 'post,page'. This will only affect the following option types: Custom Post Type Checkbox, & Custom Post Type Select."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3134
+msgid "<strong>Taxonomy</strong>: Add a comma separated list of any registered taxonomy like 'category,post_tag'. This will only affect the following option types: Taxonomy Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3142
+msgid "<strong>Min, Max, & Step</strong>: Add a comma separated list of options in the following format <code>0,100,1</code> (slide from <code>0-100</code> in intervals of <code>1</code>). The three values represent the minimum, maximum, and step options and will only affect the Numeric Slider option type."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3150
+msgid "<strong>CSS Class</strong>: Add and optional class to this option type."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3158
+msgid "<strong>Condition</strong>: Add a comma separated list (no spaces) of conditions in which the field will be visible, leave this setting empty to always show the field. In these examples, <code>value</code> is a placeholder for your condition, which can be in the form of %s."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3166
+msgid "<strong>Operator</strong>: Choose the logical operator to compute the result of the conditions."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3169
+msgid "and"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3170
+msgid "or"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3216
+msgid "Label"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3226
+msgid "Value"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3236
+msgid "Image Source (Radio Image only)"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3282
+msgid "<strong>Title</strong>: Displayed as a contextual help menu item on the Settings page."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3298
+msgid "<strong>Content</strong>: Enter the HTML content about this contextual help item displayed on the Theme Option page for end users to read."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:3334, includes/prince-settings/includes/meta-box-api.php:262, includes/prince-settings/includes/settings-api.php:574
+msgid "Title"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:4161
+msgid "Link Title"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:4196
+msgid "Quote"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:4205
+msgid "Source Name (ex. author, singer, actor)"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:4212
+msgid "Source URL"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:4219
+msgid "Source Title (ex. book, song, movie)"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:4226
+msgid "Source Date"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:4270
+msgid "Embed video from services like Youtube, Vimeo, or Hulu. You can find a list of supported oEmbed sites in the %1$s. Alternatively, you could use the built-in %2$s shortcode."
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:4270, includes/prince-settings/includes/admin-functions.php:4314
+msgid "Wordpress Codex"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:4305
+msgid "Audio"
+msgstr ""
+
+#: includes/prince-settings/includes/admin-functions.php:4314
+msgid "Embed audio from services like SoundCloud and Rdio. You can find a list of supported oEmbed sites in the %1$s. Alternatively, you could use the built-in %2$s shortcode."
+msgstr ""
+
+#: includes/prince-settings/includes/settings-api.php:336, includes/prince-settings/includes/settings-api.php:336
+msgid "Reset Settings"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:47
+msgid "Sorry, this function does not exist"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:137
+msgid "background-repeat"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:155
+msgid "background-attachment"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:174
+msgid "background-position"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:227
+msgid "background-size"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:241
+msgid "background-image"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:244, includes/prince-settings/includes/settings-types.php:244, includes/prince-settings/includes/settings-types.php:3538, includes/prince-settings/includes/settings-types.php:3538
+msgid "Add Media"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:322, includes/prince-settings/includes/settings-types.php:1077
+msgid "width"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:333, includes/prince-settings/includes/settings-types.php:1097, includes/prince-settings/includes/settings-types.php:1707, includes/prince-settings/includes/settings-types.php:2712
+msgid "unit"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:352
+msgid "style"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:446
+msgid "offset-x"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:455
+msgid "offset-y"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:464
+msgid "blur-radius"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:473
+msgid "spread-radius"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:546, includes/prince-settings/includes/settings-types.php:601
+msgid "No Categories Found"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:596, includes/prince-settings/includes/settings-types.php:897, includes/prince-settings/includes/settings-types.php:2001, includes/prince-settings/includes/settings-types.php:2126, includes/prince-settings/includes/settings-types.php:2855, includes/prince-settings/includes/settings-types.php:2978
+msgid "Choose One"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:838, includes/prince-settings/includes/settings-types.php:903, includes/prince-settings/includes/settings-types.php:2070, includes/prince-settings/includes/settings-types.php:2132
+msgid "No Posts Found"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:1086
+msgid "height"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:1384, includes/prince-settings/includes/settings-types.php:1384, includes/prince-settings/includes/settings-types.php:1427, includes/prince-settings/includes/settings-types.php:1427
+msgid "Remove Google Font"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:1386, includes/prince-settings/includes/settings-types.php:1429
+msgid "-- Choose One --"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:1450, includes/prince-settings/includes/settings-types.php:1450
+msgid "Add Google Font"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:1538
+msgctxt "color picker"
+msgid "Standard"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:1539
+msgctxt "color picker"
+msgid "Hover"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:1540
+msgctxt "color picker"
+msgid "Active"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:1541
+msgctxt "color picker"
+msgid "Visited"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:1542
+msgctxt "color picker"
+msgid "Focus"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:1832
+msgid "On"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:1856
+msgid "Off"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:1945, includes/prince-settings/includes/settings-types.php:2007
+msgid "No Pages Found"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2375
+msgid "No Sidebars"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2370
+msgid "Choose Sidebar"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2452, includes/prince-settings/includes/settings-types.php:2619
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2496
+msgid "Google+"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2501
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2506
+msgid "Pinterest"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2511
+msgid "Youtube"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2516
+msgid "Dribbble"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2521
+msgid "Github"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2526
+msgid "Forrst"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2531
+msgid "Digg"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2536
+msgid "Delicious"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2541
+msgid "Tumblr"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2546
+msgid "Skype"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2551
+msgid "SoundCloud"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2556
+msgid "Vimeo"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2561
+msgid "Flickr"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2566
+msgid "VK.com"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2674
+msgid "top"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2683
+msgid "right"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2692
+msgid "bottom"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2701
+msgid "left"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2805, includes/prince-settings/includes/settings-types.php:2860
+msgid "No Tags Found"
+msgstr ""
+
+#: includes/prince-settings/includes/settings-types.php:2922, includes/prince-settings/includes/settings-types.php:2983
+msgid "No Taxonomies Found"
+msgstr ""
+
+#: notification-plus.php:50
+msgid "Unsupported PHP version Min required PHP Version: \"%s\""
+msgstr ""
